@@ -1,0 +1,18 @@
+// Placez vos paramètres dans ce fichier pour remplacer les paramètres par défaut et les paramètres utilisateur.
+{
+  "git.enabled": true,
+  "files.autoSave": "afterDelay",
+  // Path to the git executable
+  "git.path": null,
+
+  // Whether auto fetching is enabled.
+  "git.autofetch": false,
+
+  "files.exclude": {
+        "**/.git": true,
+        "**/.DS_Store": true,
+        "**/*.js": true,
+"**/*.js.map": true,
+    "node_modules": true
+  },
+
