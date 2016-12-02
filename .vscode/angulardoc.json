@@ -1,1 +1,12 @@
-{}
+{
+  "repoId": "26a5cda0-eae8-40a8-9d4b-73f2219b6dac",
+  "lastSync": 0,
+  "directoryFilter": [
+    "!typings",
+    "!node_modules",
+    "!.vscode"
+  ],
+  "fileFilter": [
+    "**/!(*.*spec).ts"
+  ]
+}
