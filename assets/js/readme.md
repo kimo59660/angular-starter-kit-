@@ -1,1 +1,1 @@
-yy
+Dossier qui contient les fichier JS externe 
