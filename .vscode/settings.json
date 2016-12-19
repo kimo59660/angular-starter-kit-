@@ -1,6 +1,6 @@
 {
-// Placez vos paramètres dans ce fichier pour remplacer les paramètres par défaut et les paramètres utilisateur.
-{
+    // Placez vos paramètres dans ce fichier pour remplacer les paramètres par défaut et les paramètres utilisateur.
+
   "git.enabled": true,
   "files.autoSave": "afterDelay",
   // Path to the git executable
@@ -15,5 +15,5 @@
         "**/*.js": true,
 "**/*.js.map": true,
     "node_modules": true
-  },
-
+  }
+    }
